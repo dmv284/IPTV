@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Costa Rica",Repretel 6
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4MDUyNzM5LCJzZXNzaW9uIjoiMTcwLjI0NS4yNDAuMTQ5Iiwid2hpdGVsaXN0IjpbIjE3MC4yNDUuMjQwLjE0OSJdfSwic2lnbmF0dXJlIjoiZDM4YzgxYWIwNjE4MDVjNzYyZTQzMzkwOTE0ZjJlMDMwNmY5ODVkMiJ9
+#EXTINF:-1 group-title="Costa Rica",Repretel 11
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4MDUyODM1LCJzZXNzaW9uIjoiMTcwLjI0NS4yNDAuMTQ5Iiwid2hpdGVsaXN0IjpbIjE3MC4yNDUuMjQwLjE0OSJdfSwic2lnbmF0dXJlIjoiZTA1YmQxMjM4MTYyMTQ3M2YzOWY5ZjIyMWM0ODZmNjU5YjViNzUzZCJ9
+#EXTINF:-1 group-title="Costa Rica",Repretel 4
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4MDUyOTM4LCJzZXNzaW9uIjoiMTcwLjI0NS4yNDAuMTQ5Iiwid2hpdGVsaXN0IjpbIjE3MC4yNDUuMjQwLjE0OSJdfSwic2lnbmF0dXJlIjoiYTM2OGNhOWQ2ZDhhNGMwNDJlYjY3MDhlOTA5Y2M3MWU1NjdlZDNiMiJ9
+#EXTINF:-1 group-title="Costa Rica",Repretel 2
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4MDUyOTcwLCJzZXNzaW9uIjoiMTcwLjI0NS4yNDAuMTQ5Iiwid2hpdGVsaXN0IjpbIjE3MC4yNDUuMjQwLjE0OSJdfSwic2lnbmF0dXJlIjoiZDQ4YTczMmVmNjVlNjAyZGVhNTc0ODE4Y2JmNWYyNmM2MjU1YzY3YyJ9
+#EXTINF:-1 group-title="Costa Rica",Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 group-title="Costa Rica",Teletica
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO52-e_28I9aTxnn_eQ25qf-4)/dm/3/x29e3wg/s/live-2.m3u8
+#EXTINF:-1 group-title="Costa Rica",13
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZajvCV1Fyfks8QqgisX29nY)/dm/3/x7vh8g3/d/live-2.m3u8
+#EXTINF:-1 group-title="Perú",Atv +
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk3NzkyMDYxLCJzZXNzaW9uIjoiMTcwLjI0NS4yNDAuMTQ5Iiwid2hpdGVsaXN0IjpbIjE3MC4yNDUuMjQwLjE0OSJdfSwic2lnbmF0dXJlIjoiYTczMjkyNmU2Y2Q2Nzg5ZjJjMGEwNWFhYTBhOTJhMzBkYjk3NDU0ZSJ9
+#EXTINF:-1 group-title="Perú",Latina
+https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b2179072.m3u8?ref=http://www.latina.pe/
+#EXTINF:-1 group-title="Perú",Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
